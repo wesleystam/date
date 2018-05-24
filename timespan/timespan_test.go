@@ -5,7 +5,7 @@
 package timespan
 
 import (
-	"github.com/rickb777/date"
+	"github.com/wesleystam/date"
 	"testing"
 	"time"
 )

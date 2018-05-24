@@ -6,9 +6,10 @@ package date
 
 import (
 	"fmt"
-	"github.com/rickb777/date/period"
 	"math"
 	"time"
+
+	"github.com/wesleystam/date/period"
 )
 
 // PeriodOfDays describes a period of time measured in whole days. Negative values

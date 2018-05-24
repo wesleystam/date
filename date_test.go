@@ -5,10 +5,11 @@
 package date
 
 import (
-	"github.com/rickb777/date/period"
 	"runtime/debug"
 	"testing"
 	"time"
+
+	"github.com/wesleystam/date/period"
 )
 
 func same(d Date, t time.Time) bool {

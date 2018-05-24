@@ -9,8 +9,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/rickb777/date"
-	"github.com/rickb777/date/clock"
+	"github.com/wesleystam/date"
+	"github.com/wesleystam/date/clock"
 	"os"
 	"strconv"
 	"strings"

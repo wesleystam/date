@@ -6,7 +6,7 @@ package view
 
 import (
 	"encoding/json"
-	"github.com/rickb777/date"
+	"github.com/wesleystam/date"
 	"testing"
 	"time"
 )

@@ -6,7 +6,7 @@ package timespan
 
 import (
 	"fmt"
-	"github.com/rickb777/date"
+	"github.com/wesleystam/date"
 	"time"
 )
 

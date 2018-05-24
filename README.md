@@ -24,7 +24,7 @@ full documentation and examples.
 
 ## Installation
 
-    go get -u github.com/rickb777/date
+    go get -u github.com/wesleystam/date
 
 ## Status
 
